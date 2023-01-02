@@ -1,0 +1,5 @@
+"./Core/Src/main.o"
+"./Core/Startup/startup_stm32f103c8tx.o"
+"./libopencm3/lib/stm32/common/gpio_common_all.o"
+"./libopencm3/lib/stm32/common/rcc_common_all.o"
+"./libopencm3/lib/stm32/f1/gpio.o"
